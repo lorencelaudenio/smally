@@ -8,7 +8,7 @@
 
 ### Screenshots
 
-![url-shortener](assets/images/screenshot.png)
+![url-shortener](assets/images/smally.png)
 
 ---
 
